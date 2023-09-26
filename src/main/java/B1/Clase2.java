@@ -1,11 +1,9 @@
 package B1;
 
 import javax.xml.crypto.Data;
+import java.math.BigDecimal;
 import java.util.Date;
 
-public class Clase2 {
- import java.math.BigDecimal;
-import java.util.Date;
 
     public class Clase2 {
         final BigDecimal NUMERO_GRANDE = new BigDecimal(0);
@@ -39,4 +37,4 @@ import java.util.Date;
 
         }
     }
-}
+
