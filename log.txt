@@ -1,0 +1,6 @@
+oct 01, 2023 6:45:31 P. M. B4.Programa main
+INFORMACIÓN: El resultado de la multiplicación es : 100
+oct 01, 2023 6:45:31 P. M. B4.Programa main
+INFORMACIÓN: La multiplicación no logro sobrepasar los 100, Ingresa de nuevo los números nuevamente.
+oct 01, 2023 6:46:03 P. M. B4.Programa main
+INFORMACIÓN: El resultado de la multiplicación es : 1000
